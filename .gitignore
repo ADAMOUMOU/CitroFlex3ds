@@ -70,3 +70,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Misc folder
+romfs/
