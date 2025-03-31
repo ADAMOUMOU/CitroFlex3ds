@@ -23,7 +23,7 @@ CitroFlex3DS is a lightweight game engine designed specifically for Nintendo 3DS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CitroFlex3DS.git
+git clone https://github.com/ADAMOUMOU/CitroFlex3DS.git
 ```
 
 2. Build the project:
@@ -64,7 +64,7 @@ int main() {
     SceneManager manager;
     sceneManager.AddScene(new MainScene());
 
-	sceneManager.LoadScene("MainScene", Scene::Screen::TOP);
+    sceneManager.LoadScene("MainScene", Scene::Screen::TOP);
     manager.Run();
     return 0;
 }
