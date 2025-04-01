@@ -55,7 +55,7 @@ protected:
 class Level1Scene : public Scene::Scene {
 private:
 	Player player;
-	Objects::Circle* portal;  // Changed to pointer to be able to delete it
+	Objects::Circle* portal;  // It's better to have a pointer so it can be freed
 
 public:
 	Level1Scene() : Scene("Level1") {
