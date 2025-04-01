@@ -75,7 +75,7 @@ This code creates a scene with a player object that can be moved around using th
 
 ## Documentation
 
-Full documentation is available [HERE](https://docs.hdoc.io/Adamoumou/CitroFlex3ds/).
+Full documentation is available [HERE](https://adamoumou.github.io/CitroFlex3ds-doc/).
 
 ### Key Components
 
