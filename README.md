@@ -2,6 +2,10 @@
 
 CitroFlex3DS is a lightweight game engine designed specifically for Nintendo 3DS homebrew development. It provides a simple framework for creating games and applications.
 
+> [!WARNING]
+> Note that this is in a very early stage and not all modules are working so I do not recommand testing it on real hardware but feel free to help me if you want :hugs:
+
+
 ## Features
 
 - **Scene Management**: Scene based architecture
@@ -98,3 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] UI components
 - [x] Collision detection system
 - [x] Audio system
+
